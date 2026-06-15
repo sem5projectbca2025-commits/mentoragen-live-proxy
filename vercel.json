@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://mentoragen-mentoragen-ai.hf.space/$1"
+    }
+  ]
+}
